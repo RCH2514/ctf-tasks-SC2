@@ -3,6 +3,7 @@ This repo contains CTF tasks I created for the Sup'Com Cybersecurity Club, along
 Task 1: Comments
 Task Overview
 ![image](https://github.com/user-attachments/assets/a058289b-3707-4b00-b45f-8a757eee8824)
+
 At first glance, this seemed like a straightforward social engineering challenge but with a twist. The key was to analyze the comments on the person’s social media posts.
 Approach
 To solve the challenge, I first used Google Lens on the provided photo, which led me to the person’s Twitter account. After browsing through their tweets, I found one where they asked if anyone wanted to get drunk with them. I then checked the comments on that tweet and discovered a conversation where the person mentioned they both liked the band Cinderella.
@@ -11,3 +12,13 @@ To solve the challenge, I first used Google Lens on the provided photo, which le
 
 
 The flag is: SC2{Cinderella}
+Task 2: Hammami's Car
+Task Overview
+![image](https://github.com/user-attachments/assets/0c4c4975-098b-4727-9601-fa660ec18bdc)
+Approach
+I started by examining the photo, where the car's serial number was visible. I did a quick search using the serial number and found several websites that could provide information about the car. After testing a few, I found that vidange.tn was the only site that provided all the required details, including the car's brand, first registration date, and fiscal power.
+![image](https://github.com/user-attachments/assets/37892bed-5447-4a6e-aa7e-56822a3ecb4d)
+![image](https://github.com/user-attachments/assets/e8ee1af8-05f6-48df-84c7-2d5b283306aa)
+the flag is : SC2{ISUZU_02_04_1999_10}
+
+
