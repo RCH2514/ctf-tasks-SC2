@@ -12,13 +12,19 @@ To solve the challenge, I first used Google Lens on the provided photo, which le
 
 
 The flag is: SC2{Cinderella}
+
 Task 2: Hammami's Car
 Task Overview
+
 ![image](https://github.com/user-attachments/assets/0c4c4975-098b-4727-9601-fa660ec18bdc)
+
 Approach
 I started by examining the photo, where the car's serial number was visible. I did a quick search using the serial number and found several websites that could provide information about the car. After testing a few, I found that vidange.tn was the only site that provided all the required details, including the car's brand, first registration date, and fiscal power.
+
 ![image](https://github.com/user-attachments/assets/37892bed-5447-4a6e-aa7e-56822a3ecb4d)
+
 ![image](https://github.com/user-attachments/assets/e8ee1af8-05f6-48df-84c7-2d5b283306aa)
+
 the flag is : SC2{ISUZU_02_04_1999_10}
 
 
