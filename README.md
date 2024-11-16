@@ -1,7 +1,10 @@
 # ctf-tasks-by-me-SC2
 This repo contains CTF tasks I created for the Sup'Com Cybersecurity Club, along with my writeups and solutions. Explore the challenges, test your skills, and review detailed explanations for each task to learn and improve your cybersecurity knowledge.
+
 Task 1: Comments
+
 Task Overview
+
 ![image](https://github.com/user-attachments/assets/a058289b-3707-4b00-b45f-8a757eee8824)
 
 At first glance, this seemed like a straightforward social engineering challenge but with a twist. The key was to analyze the comments on the person’s social media posts.
