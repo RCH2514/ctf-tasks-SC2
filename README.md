@@ -173,8 +173,11 @@ then :
 ![image](https://github.com/user-attachments/assets/8746fcc9-9fac-4de4-aa6b-be26cf44f3bd)
 
 Task 10: US 
+![image](https://github.com/user-attachments/assets/5718086f-52d7-40b8-bdd7-dc8511b4feb1)
+
 
 In this challenge, you are tasked with extracting a hidden flag from an image that appears to be a simple photo of the club members. At first glance, it looks like just another photo, but there’s a hidden message embedded within. The first step is to run the strings command on the image to check for any human-readable text.
+
 ![image](https://github.com/user-attachments/assets/82704b21-9b1e-4f20-a550-f8591a6b0609)
 
  When you do this, you’ll find a list attached to the output — this list is not just random, it’s a key to the next step of the challenge.
@@ -193,7 +196,13 @@ now openning the image we extracted we will find the flag :
 
 ![image](https://github.com/user-attachments/assets/a171eda5-8cb0-4aad-a579-c09c85e44270)
 
+
 Task 10: between_us 
+
+
+![image](https://github.com/user-attachments/assets/87ec47d5-66b8-437c-a7a2-6b9f1f72c427)
+
+
 
 In this challenge, you’ll need to uncover a hidden flag buried within an audio file. At first glance, the provided MP3 file may seem like an ordinary sound recording, but as the title suggests, there’s something secret hidden within it. To begin, your first step is to run the strings command on the MP3 file. While the file is an audio file, strings will reveal any readable text hidden within it, including the secret passphrase you need to move forward.
 
