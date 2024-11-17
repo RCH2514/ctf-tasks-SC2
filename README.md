@@ -126,6 +126,18 @@ and searching for the founders :
 
 the flag is : Flag: SC2{Stroz_Friedberg_2000_Edward_Stroz_Eric_Friedberg}
 
+Task 9: Insider_Threat_5
+
+
+Task Overview
+
+
+
+Approach
+
+
+
+
 
 
 
