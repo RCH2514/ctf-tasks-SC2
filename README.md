@@ -147,7 +147,12 @@ that string is actually an ID for a professional website but i saw that 6 hours 
 ![image](https://github.com/user-attachments/assets/4e376303-1d68-4426-b3bf-2ebbbac3b353)
 
 now u have to think in be professional it must be an id for an account in a professional website llike GITHUB.
-if u go to the account of this id in github u're gonna find a repo named "msj_to_google". Inside the repository, u'll find a photo named "our_friend". This image was the key to uncovering the message. However, the message wasn't immediately visible. It was hidden in the image using steganography.To extract the hidden message, I used Stegcracker, a tool designed to search for hidden data in images. To crack the hidden message, u need to use a list of all possible combinations of flags from the Insider_Threat tasks as i mentioned in Insider_Threat_0 that u'll need all u're flags for the last task so u need now to do all the possible combinaisations starting by 1 to 2 ... this python code do the job : 
+if u go to the account of this id in github u're gonna find a repo named "msj_to_google". Inside the repository, u'll find a photo named "our_friend". 
+
+![image](https://github.com/user-attachments/assets/c068fb39-caaa-4164-93da-7bb067cb90db)
+
+
+This image was the key to uncovering the message. However, the message wasn't immediately visible. It was hidden in the image using steganography.To extract the hidden message, I used Stegcracker, a tool designed to search for hidden data in images. To crack the hidden message, u need to use a list of all possible combinations of flags from the Insider_Threat tasks as i mentioned in Insider_Threat_0 that u'll need all u're flags for the last task so u need now to do all the possible combinaisations starting by 1 to 2 ... this python code do the job : 
 
 ![image](https://github.com/user-attachments/assets/08c3e349-dfda-4fc0-95a0-8e1e74307126)
 then :
