@@ -172,6 +172,35 @@ then :
  we got some solves after the hint 
 ![image](https://github.com/user-attachments/assets/8746fcc9-9fac-4de4-aa6b-be26cf44f3bd)
 
+Task 10: US 
+
+In this challenge, you are tasked with extracting a hidden flag from an image that appears to be a simple photo of the club members. At first glance, it looks like just another photo, but there’s a hidden message embedded within. The first step is to run the strings command on the image to check for any human-readable text.
+![image](https://github.com/user-attachments/assets/82704b21-9b1e-4f20-a550-f8591a6b0609)
+
+ When you do this, you’ll find a list attached to the output — this list is not just random, it’s a key to the next step of the challenge.
+Once you’ve located the list in the strings output, it’s time to dig deeper. The hidden data is embedded within the image file itself, and to extract it, you’ll need to use binwalk. By running binwalk -e on the image, you’ll be able to extract any embedded files from the image.
+
+![image](https://github.com/user-attachments/assets/483c3200-bb11-4868-8e89-800ba7962aeb)
+
+
+now this list looks like a list of passwords that's why u have to think of stegcraker because it's probably a stegano case . 
+
+
+![image](https://github.com/user-attachments/assets/ad1d4667-1d6a-45a0-937c-cfa9a7729959)
+
+now openning the image we extracted we will find the flag : 
+
+
+![image](https://github.com/user-attachments/assets/a171eda5-8cb0-4aad-a579-c09c85e44270)
+
+Task 10: between_us 
+
+
+
+
+
+
+
 
 
 
