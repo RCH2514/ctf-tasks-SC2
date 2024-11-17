@@ -142,8 +142,31 @@ The first step was to analyze the conversation with Levandowski. In the exchange
 so u have to start with facebook searching in my account u'll find in the bio a string that is strange and out of place in my bio. that string is actually an ID for a professional website but i saw that 6 hours passed no one thaught of it as an ID so i pasted a hint saying 
 
 ![image](https://github.com/user-attachments/assets/4e376303-1d68-4426-b3bf-2ebbbac3b353)
+
 now u have to think in be professional it must be an id for an account in a professional website llike GITHUB.
-if u go to the account of this id in github u're gonna find a repo named "msj_to_google". Inside the repository, u'll find a photo named "our_friend". This image was the key to uncovering the message. However, the message wasn't immediately visible. It was hidden in the image using steganography.To extract the hidden message, I used StegSeek, a tool designed to search for hidden data in images. To crack the hidden message, u need to use a list of all possible combinations of flags from the Insider_Threat tasks as i mentioned in Insider_Threat_0 that u'll need all u're flags for the last task so u need now to do all the possible combinaisations starti
+if u go to the account of this id in github u're gonna find a repo named "msj_to_google". Inside the repository, u'll find a photo named "our_friend". This image was the key to uncovering the message. However, the message wasn't immediately visible. It was hidden in the image using steganography.To extract the hidden message, I used Stegcracker, a tool designed to search for hidden data in images. To crack the hidden message, u need to use a list of all possible combinations of flags from the Insider_Threat tasks as i mentioned in Insider_Threat_0 that u'll need all u're flags for the last task so u need now to do all the possible combinaisations starting by 1 to 2 ... this python code do the job : 
+
+![image](https://github.com/user-attachments/assets/08c3e349-dfda-4fc0-95a0-8e1e74307126)
+then :
+
+![image](https://github.com/user-attachments/assets/e2815e0e-be96-4e89-9f05-3ee21f4ed8d4)
+
+ we have the data know in ourfriend.jpg.out 
+ when openning the file nothing is shown in the image 
+ ![image](https://github.com/user-attachments/assets/e2bf01d2-f7c9-48c4-bf54-a14e0fd3c0b7)
+
+  so u try strings on this file and a string will seem like a text that was encoded in HEX 
+  ![image](https://github.com/user-attachments/assets/97bc58af-3b2b-4ec2-a740-afcc4ce71a54)
+   using cyberChef now will solve the task 
+   ![image](https://github.com/user-attachments/assets/176dda64-5343-4129-b40d-3cdff7a4173d)
+   
+ and the flag is : SC2{y0u_w1ll_n3v3r_b3_b3tt3r_th4n_m3}
+ we got some solves after the hint 
+![image](https://github.com/user-attachments/assets/8746fcc9-9fac-4de4-aa6b-be26cf44f3bd)
+
+
+
+
 
 
 
