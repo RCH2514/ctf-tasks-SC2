@@ -105,6 +105,29 @@ Upon analyzing the spectrogram, I found a series of patterns that looked like a 
 
 ![image](https://github.com/user-attachments/assets/e82de5c2-1366-4106-802e-2c2975b90b44)
 
+Task 8: Insider_Threat_4
+
+
+Task Overview
+
+![image](https://github.com/user-attachments/assets/dad2723d-1e5a-45ab-8343-7ffbee9e1287)
+
+Approach
+This task required some in-depth research to find the relevant article that mentions the cybersecurity firm hired by Uber. After reading through multiple articles and sources, I found a key mention in an article from Relativity, titled "Report Disclosed in Fight Between Uber and Waymo Now Public," which can be found here: https://www.relativity.com/blog/report-disclosed-in-fight-between-uber-waymo-now-public/. According to this article, the firm Uber hired was Stroz Friedberg, a well-known cybersecurity and forensics firm.
+
+![image](https://github.com/user-attachments/assets/e1af1d09-4cfb-49e4-8b27-75ee62de137c)
+
+Next, I searched for the foundation year and founders of Stroz Friedberg. A quick lookup on LinkedIn confirmed that the firm was founded in 2000
+![image](https://github.com/user-attachments/assets/8259c966-896d-427d-a4ab-985c1da6291c)
+
+and searching for the founders : 
+
+![image](https://github.com/user-attachments/assets/47fc4256-a66e-4339-9d95-27a665687dc1)
+
+the flag is : Flag: SC2{Stroz_Friedberg_2000_Edward_Stroz_Eric_Friedberg}
+
+
+
 
 
 
