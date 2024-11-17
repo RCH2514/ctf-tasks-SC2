@@ -75,4 +75,18 @@ By analyzing the image, I recognized the Chase Center, which is located in San F
 
 the flag is : SC2{Uber_San_Francisco_California_2009}
 
+Task 6: Insider_Threat_2
+
+Task Overview
+
+
+![image](https://github.com/user-attachments/assets/bd3440b2-2f84-478b-9f73-80d687f869c2)
+
+Approach 
+
+I downloaded the zip file containing multiple files and folders, which was too large to check manually. To efficiently search for the flag, I used the grep command, a powerful tool to search for specific text within files. Since I knew the flag started with SC2, I ran a simple command to search for this pattern across all the files and here is the flag : 
+
+![image](https://github.com/user-attachments/assets/ad47d039-8a03-4459-bc11-0baf4fff86d7)
+
+
 
