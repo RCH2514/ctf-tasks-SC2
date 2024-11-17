@@ -197,7 +197,7 @@ now openning the image we extracted we will find the flag :
 ![image](https://github.com/user-attachments/assets/a171eda5-8cb0-4aad-a579-c09c85e44270)
 
 
-Task 10: between_us 
+Task 11: between_us 
 
 
 ![image](https://github.com/user-attachments/assets/87ec47d5-66b8-437c-a7a2-6b9f1f72c427)
@@ -215,6 +215,22 @@ Once you find the passphrase through the strings output, your next task is to ex
 
 You will be prompted for the passphrase that you found earlier. Once entered correctly, Steghide will extract a text file that contains the flag.
 
+Task 1: break_me
+
+
+
+![image](https://github.com/user-attachments/assets/da2996e0-6841-48ee-b209-fcb038ad4d15)
+
+
+
+In this task, you’re faced with a QR code that has been intentionally damaged, making it impossible to scan directly. It seems someone got a little too creative with their design, and as a result, the QR code is no longer scannable in its current state. Your job is to fix the damaged QR code so that you can successfully scan it and retrieve the hidden flag.
+
+To start, you need to repair or rebuild the QR code. You can use a tool like QRazyBox, which is specifically designed for fixing damaged or incomplete QR codes, or you can use any simple photo editor that allows you to manipulate the image (such as GIMP or Photoshop). Carefully restore the missing parts of the QR code, ensuring you maintain the correct alignment and structure.
+
+Once you’ve repaired the QR code, scan it with your preferred QR code scanner, and you’ll be able to reveal the hidden flag.
+
+The flag you’ll find after scanning the QR code is:
+SC2{y0u_5canned_m3}
 
 
 
