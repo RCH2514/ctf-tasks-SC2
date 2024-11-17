@@ -29,5 +29,18 @@ I started by examining the photo, where the car's serial number was visible. I d
 ![image](https://github.com/user-attachments/assets/e8ee1af8-05f6-48df-84c7-2d5b283306aa)
 
 the flag is : SC2{ISUZU_02_04_1999_10}
+Task 3: Legendary Domain "supcom.tn"
+
+Task Overview
+
+![image](https://github.com/user-attachments/assets/9d430946-ede0-4cb3-9634-4b1fcd64ac77)
+
+Approach
+
+To solve this task, I performed a domain lookup to retrieve the registration details for the domain "supcom.tn." There are several websites available for performing domain lookups, so I tested a few of them. After some trials, I found that whois.domaintools.com and whois.net both returned the needed information.
+
+![image](https://github.com/user-attachments/assets/e3539e1d-44c1-4dc4-aa01-6857e3156444)
+
+the flag is : SC2{14_12_2022_16_31_30}
 
 
