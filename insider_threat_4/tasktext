@@ -1,0 +1,5 @@
+After Otto launched, Uber acquired the company, gaining access to trade secrets stolen by Levandowski from Google.
+Waymo sued Uber, claiming the acquisition provided sensitive information from Levandowski.
+In response, Uber hired a forensics team from a cybersecurity firm. Find the name of the firm, its foundation year, and the name of the founders.
+FLAG FORMAT :
+SC2{Name_Company_Year_Founder_Name1_Founder_Name2}
