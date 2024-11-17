@@ -195,8 +195,16 @@ now openning the image we extracted we will find the flag :
 
 Task 10: between_us 
 
+In this challenge, you’ll need to uncover a hidden flag buried within an audio file. At first glance, the provided MP3 file may seem like an ordinary sound recording, but as the title suggests, there’s something secret hidden within it. To begin, your first step is to run the strings command on the MP3 file. While the file is an audio file, strings will reveal any readable text hidden within it, including the secret passphrase you need to move forward.
+
+Once you find the passphrase through the strings output, your next task is to extract the hidden data using Steghide, a tool commonly used to embed data within audio files (and other media). With the passphrase in hand, run Steghide on the MP3 file:
 
 
+![image](https://github.com/user-attachments/assets/f57eec4e-3ea8-4e86-9334-71a94fb2d99f)
+
+
+
+You will be prompted for the passphrase that you found earlier. Once entered correctly, Steghide will extract a text file that contains the flag.
 
 
 
