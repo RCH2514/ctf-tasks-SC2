@@ -43,7 +43,7 @@ To solve this task, I performed a domain lookup to retrieve the registration det
 
 the flag is : SC2{14_12_2022_16_31_30}
 
-Task 4: Insider Threat_0
+Task 4: Insider_Threat_0
 
 Task Overview
 
@@ -54,5 +54,25 @@ Approach
 This task focuses on Insider Threats, which refer to situations where someone with authorized access to an organization’s systems or information misuses that access to cause harm. To solve the task, I recognized that the term Insider_Threat directly corresponds to the nature of the issue being described. Given the flag format SC2{The_Answer}, the correct flag is simply Insider_Threat.
 
 the flag is : SC2{Insider_Threat}
+
+Task 5: Insider_Threat_1
+
+Task Overview
+
+![image](https://github.com/user-attachments/assets/1b43abbe-01ca-425b-af13-df74acbc8af5)
+
+Approach
+
+By analyzing the image, I recognized the Chase Center, which is located in San Francisco, California. I used Google Lens to search for the building and found that the building next to it belongs to Uber, the well-known ride-sharing company. A quick search revealed that Uber was founded in 2009. The flag format requires all these details, so I formatted them as SC2{Uber_San_Francisco_California_2009}.
+
+
+![image](https://github.com/user-attachments/assets/10b9cf11-a917-4c4c-ac0d-26330753b1bf)
+
+![image](https://github.com/user-attachments/assets/6bb15656-b542-4951-b03c-a32374822d3e)
+
+
+
+
+the flag is : SC2{Uber_San_Francisco_California_2009}
 
 
