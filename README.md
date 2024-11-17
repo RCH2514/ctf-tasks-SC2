@@ -128,12 +128,23 @@ the flag is : Flag: SC2{Stroz_Friedberg_2000_Edward_Stroz_Eric_Friedberg}
 
 Task 9: Insider_Threat_5
 
+![image](https://github.com/user-attachments/assets/1ac410df-3d15-4684-9a57-d42ba2768689)
 
 Task Overview
 
 
 
 Approach
+The first step was to analyze the conversation with Levandowski. In the exchange, he instructed me to be professional to reach Google and deliver the message. when i executed the exiftool with the image i found "FACEBOOK IS NOT PROFESSIONAL"  .
+
+![image](https://github.com/user-attachments/assets/915a0354-409d-4788-bebf-d022be9ce8b2)
+
+so u have to start with facebook searching in my account u'll find in the bio a string that is strange and out of place in my bio. that string is actually an ID for a professional website but i saw that 6 hours passed no one thaught of it as an ID so i pasted a hint saying 
+
+![image](https://github.com/user-attachments/assets/4e376303-1d68-4426-b3bf-2ebbbac3b353)
+now u have to think in be professional it must be an id for an account in a professional website llike GITHUB.
+if u go to the account of this id in github u're gonna find a repo named "msj_to_google". Inside the repository, u'll find a photo named "our_friend". This image was the key to uncovering the message. However, the message wasn't immediately visible. It was hidden in the image using steganography.To extract the hidden message, I used StegSeek, a tool designed to search for hidden data in images. To crack the hidden message, u need to use a list of all possible combinations of flags from the Insider_Threat tasks as i mentioned in Insider_Threat_0 that u'll need all u're flags for the last task so u need now to do all the possible combinaisations starti
+
 
 
 
