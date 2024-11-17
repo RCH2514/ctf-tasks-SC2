@@ -43,4 +43,16 @@ To solve this task, I performed a domain lookup to retrieve the registration det
 
 the flag is : SC2{14_12_2022_16_31_30}
 
+Task 4: Insider Threat_0
+
+Task Overview
+
+![image](https://github.com/user-attachments/assets/30be38cc-262f-42c6-a95e-7a23527d9c6e)
+
+Approach
+
+This task focuses on Insider Threats, which refer to situations where someone with authorized access to an organization’s systems or information misuses that access to cause harm. To solve the task, I recognized that the term Insider_Threat directly corresponds to the nature of the issue being described. Given the flag format SC2{The_Answer}, the correct flag is simply Insider_Threat.
+
+the flag is : SC2{Insider_Threat}
+
 
