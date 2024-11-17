@@ -88,5 +88,24 @@ I downloaded the zip file containing multiple files and folders, which was too l
 
 ![image](https://github.com/user-attachments/assets/ad47d039-8a03-4459-bc11-0baf4fff86d7)
 
+Task 7: Insider_Threat_3
+
+
+Task Overview
+
+![image](https://github.com/user-attachments/assets/61cc02cd-2b7e-47ef-a213-43b376bb700f)
+
+Approach 
+
+Inside the zip file, I found two images and three sound files. After analyzing the sound files, I noticed that two of them seemed to contain changing frequencies, which appeared to be common hearing test tones that could be easily identified through a quick search on social media. However, it was the third sound file that caught my attention, as it seemed unusual.
+
+To extract potential hidden information from this file, I decided to analyze it using a spectrogram, a visual representation of the frequencies within an audio signal. I used Sonic Visualiser, a tool commonly used for spectrogram analysis, to open the third sound file.
+
+Upon analyzing the spectrogram, I found a series of patterns that looked like a hidden message, which was the flag for this task.
+
+![image](https://github.com/user-attachments/assets/e82de5c2-1366-4106-802e-2c2975b90b44)
+
+
+
 
 
