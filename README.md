@@ -139,7 +139,10 @@ The first step was to analyze the conversation with Levandowski. In the exchange
 
 ![image](https://github.com/user-attachments/assets/915a0354-409d-4788-bebf-d022be9ce8b2)
 
-so u have to start with facebook searching in my account u'll find in the bio a string that is strange and out of place in my bio. that string is actually an ID for a professional website but i saw that 6 hours passed no one thaught of it as an ID so i pasted a hint saying 
+so u have to start with facebook searching in my account u'll find in the bio a string that is strange and out of place in my bio. 
+![image](https://github.com/user-attachments/assets/4f3a77d4-eee0-447d-bbf6-025567927290)
+
+that string is actually an ID for a professional website but i saw that 6 hours passed no one thaught of it as an ID so i posted a hint saying 
 
 ![image](https://github.com/user-attachments/assets/4e376303-1d68-4426-b3bf-2ebbbac3b353)
 
