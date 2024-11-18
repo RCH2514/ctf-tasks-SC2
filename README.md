@@ -173,6 +173,8 @@ then :
 ![image](https://github.com/user-attachments/assets/8746fcc9-9fac-4de4-aa6b-be26cf44f3bd)
 
 Task 10: US 
+
+
 ![image](https://github.com/user-attachments/assets/5718086f-52d7-40b8-bdd7-dc8511b4feb1)
 
 
@@ -215,7 +217,7 @@ Once you find the passphrase through the strings output, your next task is to ex
 
 You will be prompted for the passphrase that you found earlier. Once entered correctly, Steghide will extract a text file that contains the flag.
 
-Task 1: break_me
+Task 12: break_me
 
 
 
